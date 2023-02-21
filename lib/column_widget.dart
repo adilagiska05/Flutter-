@@ -10,6 +10,12 @@ class ColumnWidget extends StatelessWidget{
         Text("Nasi Gore + Teh Jeruk Dingin"),
         Text("MIe Ayam + Teh Lemon Dingin"),
         Text("Vegetable Fried + Black Coffe"),
+        // Row(
+        //   children: [
+        //     Text("Hallo"),
+        //     Text("Annyeong")
+        //   ],
+        // )
       ],
      );
   }
